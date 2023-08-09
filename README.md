@@ -2,4 +2,4 @@
 
 Технологиии: Html | Sass | Gulp
 
-![Иллюстрация к проекту](../app/img/maket.png)
+![Image alt](https://github.com/{Lumaks42}/{app/img}/raw/{master}/{app/img}/maket.png)
