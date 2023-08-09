@@ -2,4 +2,4 @@
 
 Технологиии: Html | Sass | Gulp
 
-![Иллюстрация к проекту](../Lumaks42/floristMarket/app/img/maket.png)
+![Иллюстрация к проекту](../app/img/maket.png)
